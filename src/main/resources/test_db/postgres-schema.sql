@@ -6,4 +6,4 @@ CREATE TABLE test
 );
 
 INSERT INTO test ("date", description)
-VALUES ('10/10/1995','HELLO WORLD');
+VALUES ('10/10/1995','HELLO TESTCONTAINER');
